@@ -1,6 +1,6 @@
 <?php
 
-class vehicle 
+class Vehicle 
 {
     protected string $color;
 
