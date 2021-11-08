@@ -1,6 +1,6 @@
 <?php
 
-require_once 'truck.php';
+require_once 'Truck.php';
 
 $bicycle = new truck('blue', 3, "fuel", 1);
 
