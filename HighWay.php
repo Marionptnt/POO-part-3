@@ -13,7 +13,8 @@ abstract class HighWay
     protected  int $nbLane;
 
     protected int $maxSpeed;
-
+    
+    abstract protected function addVehicle($vehicle): string;
 
     
 
